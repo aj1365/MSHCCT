@@ -13,14 +13,23 @@ Citation
 
 
 @ARTICLE{10945957,
+
   author={Jamali, Ali and Roy, Swalpa Kumar and Lu, Bing and Beni, Leila Hashemi and Kakhani, Nafiseh and Chanussot, Jocelyn and Ghamisi, Pedram},
+  
   journal={IEEE Geoscience and Remote Sensing Letters}, 
+  
   title={MSHCCT: A Multi-Scale Compact Convolutional Network for High Resolution Aerial Scene Classification}, 
+  
   year={2025},
+  
   volume={},
+  
   number={},
+  
   pages={1-1},
+  
   keywords={Transformers;Computer architecture;Remote sensing;Feature extraction;Computer vision;Computational modeling;Head;Adaptation models;Training;Scene classification;Compact Convolutional Network;attention mechanism;image classification;vision transformers},
+  
   doi={10.1109/LGRS.2025.3556373}}
 
 
