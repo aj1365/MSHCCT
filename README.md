@@ -14,7 +14,7 @@ Citation
 
 @ARTICLE{10945957,
 
-  author={Jamali, Ali and Roy, Swalpa Kumar and Lu, Bing and Beni, Leila Hashemi and Kakhani, Nafiseh and and Ghamisi, Pedram},
+  author={Jamali, Ali and Roy, Swalpa Kumar and Lu, Bing and Beni, Leila Hashemi and Kakhani, Nafiseh and Ghamisi, Pedram},
   
   journal={IEEE Geoscience and Remote Sensing Letters}, 
   
