@@ -1,5 +1,4 @@
-# MSHCCT
-MSHCCT: A Multi-Scale Compact Convolutional Network for Aerial Imagery Classification
+# MSHCCT: A Multi-Scale Compact Convolutional Network for Aerial Imagery Classification
 
 [Ali Jamali](https://www.researchgate.net/profile/Ali-Jamali), [Swalpa Kumar Roy](https://swalpa.github.io), [Bing Lu](https://www.sfu.ca/people/binglu/about.html), [Leila Hashemi Beni](https://www.ncat.edu/employee-bio.php?directoryID=1901247546), [Nafiseh Kakhani](https://www.researchgate.net/profile/Nafiseh-Kakhani), and [Pedram Ghamisi](https://www.iarai.ac.at/people/pedramghamisi/)
 
