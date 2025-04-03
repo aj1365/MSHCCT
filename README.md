@@ -27,8 +27,6 @@ Citation
   
   pages={1-1},
   
-  keywords={Transformers;Computer architecture;Remote sensing;Feature extraction;Computer vision;Computational modeling;Head;Adaptation models;Training;Scene classification;Compact Convolutional Network;attention mechanism;image classification;vision transformers},
-  
   doi={10.1109/LGRS.2025.3556373}}
 
 
