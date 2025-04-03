@@ -32,7 +32,7 @@ Citation
 
 <img src="Model.png"/>
 
-<img src="Model2.png"/>
+<img src="Model_2.png"/>
 
 <img src="model_predictions.png"/>
 
